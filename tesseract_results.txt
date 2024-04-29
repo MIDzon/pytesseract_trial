@@ -1,0 +1,66 @@
+Type to Add Skills
+
+X Root Cause Problem Solving
+X Team Supervision
+
+X Training instruction
+
+X Interpersonal Communication
+
+X PLC Troubleshooting
+
+X Troubleshooting x HMI Development
+x MATLAB
+
+X C#+ Programming Language
+
+x Python (Programming Language)
+
+X Cognex spreadsheet x Cable Routing
+X Low Voltage Electrical x Panel Design
+X Electrical Schematics
+
+X Wiring Schematics
+
+X Schematic Diagrams
+
+X Reading Schematics
+
+X National Electrical Code (NEC)
+
+X Electrical CAD
+
+X High Voltage Electrical
+
+X High Speed 10 x. Asynchronous 1/0
+
+x 10 x Commissioning
+
+x Geometric Dimensioning And Tolerancing
+
+Rapid Prototyping
+3D Computer Aided Design (CAD)
+Engineering (Suggested)
+
+Control (Suggested)
+
+Robotics (Suggested)
+
+Sensors (Suggested)
+
+Machine Vision (MV) (Suggested)
+Industrial Automation (Suggested)
+Materials (Suggested)
+
+Mechanical Engineering (Suggested)
+Vision Software (Suggested)
+Industrial Machinery (Suggested)
+Mechanical Design (Suggested)
+Actuators (Suggested)
+
+Design (Suggested)
+
+Pneumatic (Suggested)
+
+National instruments LabVIEW (Suggested)
+
